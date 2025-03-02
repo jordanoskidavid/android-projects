@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="saveButton" type="id">111</item>
+    <item name="taggedListView" type="id">123</item>
+    <item name="clearButton" type="id">112</item>
+    <item name="searchTag" type="id">113</item>
+    <item name="searchQuery" type="id">131</item>
+</resources>
