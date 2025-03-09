@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.domashna1"
+    namespace = "com.example.andfic"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.domashna1"
+        applicationId = "com.example.andfic"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

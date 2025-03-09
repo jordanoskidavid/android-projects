@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">domashna1</string>
+    <string name="app_name">AndFic</string>
+    <string name="enter_twitter_search_query_here">Enter Twitter search query here</string>
+    <string name="tag_your_query">Tag your query</string>
+    <string name="save">Save</string>
+    <string name="tagged_searches">Tagged Searches</string>
+    <string name="clear_tags">Clear Tags</string>
+    <string name="edit">Edit</string>
 </resources>

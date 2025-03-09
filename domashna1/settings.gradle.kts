@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "domashna1"
+rootProject.name = "AndFic"
 include(":app")
